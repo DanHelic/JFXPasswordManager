@@ -4,7 +4,7 @@ A simple password manager built with **Java** and **JavaFX 18.0.2** as a small p
 
 The goal of this project was to gain experience with JavaFX desktop applications, user interface design, and implementing basic security concepts such as password hashing.
 
-> **Note:** This project was created for learning purposes and personal use. It is **not** intended to be a production-ready password manager.
+This project was created for learning purposes and personal use.
 
 ---
 
@@ -13,7 +13,7 @@ The goal of this project was to gain experience with JavaFX desktop applications
 * Store and manage passwords
 * Modern JavaFX desktop interface
 * Password hashing using BCrypt
-* Global keyboard hook support via JNativeHook
+* Global keyboard hook support via JNativeHook for easy copy-paste
 * Lightweight and easy to use
 
 ---
@@ -32,38 +32,7 @@ The goal of this project was to gain experience with JavaFX desktop applications
 
 ### Requirements
 
-* Java 18 or newer
-* Maven
-
-### Clone the repository
-
-```bash
-git clone https://github.com/DanHelic/JFXPasswordManager.git
-cd JFXPasswordManager
-```
-
-### Build
-
-```bash
-mvn clean install
-```
-
-### Run
-
-```bash
-mvn javafx:run
-```
-
----
-
-## 📂 Project Structure
-
-```
-src/
- ├── main/
- │   ├── java/
- │   └── resources/
-```
+* Java 18
 
 ---
 
