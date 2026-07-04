@@ -4,7 +4,7 @@ A simple password manager built with **Java** and **JavaFX 18.0.2** as a small p
 
 The goal of this project was to gain experience with JavaFX desktop applications, user interface design, and implementing basic security concepts such as password hashing.
 
-This project was created for learning purposes and personal use.
+This project was created in 2022 for learning purposes and personal use.
 
 ---
 
