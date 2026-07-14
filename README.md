@@ -6,6 +6,8 @@ The goal of this project was to gain experience with JavaFX desktop applications
 
 This project was created in 2022 for learning purposes and personal use.
 
+<img width="516" height="303" alt="javaw_HR2tDSVeXY" src="https://github.com/user-attachments/assets/971c6ca8-2f96-4247-a5c2-0c2b9c362391" />
+
 ---
 
 ## ✨ Features
@@ -15,6 +17,7 @@ This project was created in 2022 for learning purposes and personal use.
 * Password hashing using BCrypt
 * Global keyboard hook support via JNativeHook for easy copy-paste
 * Lightweight and easy to use
+<img width="733" height="305" alt="javaw_ROJVAwYqBs" src="https://github.com/user-attachments/assets/c73bb804-17cb-42d8-ab6d-947be2327ac4" />
 
 ---
 
